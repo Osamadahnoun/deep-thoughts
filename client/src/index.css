@@ -1,9 +1,9 @@
 :root {
   --primary: #497573;
-  --secondary: #99f7f2;
+  --secondary: #ff7f7f;
   --tertiary: #b2c2c1;
   --quatrinary: #cadbda;
-  --light: #e1f5f4;
+  --light: #ffcccc;
   --dark: #6c7575;
   --error: rgb(228, 46, 1);
   --border-radius: 0.3rem;
@@ -31,7 +31,7 @@ body {
   line-height: 1.5;
   font-size: 20px;
   color: var(--dark);
-  background-color: #f3fffee1;
+  background-color: #ffe5e5;
 }
 
 h1,
