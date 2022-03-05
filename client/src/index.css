@@ -23,6 +23,10 @@ body {
   min-height: 100%;
 }
 
+textarea {
+  background-color: #f8f4ff;
+}
+
 body {
   margin: 0;
   padding: 0;
